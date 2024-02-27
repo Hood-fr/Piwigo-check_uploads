@@ -1,0 +1,4 @@
+File automatically created from SVN or Git repository.
+
+URL: https://github.com/Piwigo/Piwigo-check_uploads 
+Revision: aca34db07790fa7e49641396c8572d49e45036d2 (Sun Dec 31 16:22:43 2023 +0100)
